@@ -1,4 +1,4 @@
-baseURL = "https://ziy1-tan.github.io/"
+# baseURL = "https://ziy1-tan.github.io/"
 languageCode = "en-us"
 title = "Ziyi's Blog"
 theme = "ink"

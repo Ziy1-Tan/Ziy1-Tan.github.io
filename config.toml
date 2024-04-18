@@ -4,7 +4,7 @@ title = "Ziyi's Blog"
 theme = "ink"
 paginate = 5
 
-copyright = "© Copyright notice"
+# copyright = "© Copyright notice"
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
@@ -17,7 +17,7 @@ disqusShortname = "ziy1-tan-github-io"
 subtitle = "View From The Top"
 
 # Optional 64x64 avatar image.
-avatar = "https://img2.imgtp.com/2024/04/10/I5eMqUVO.jpg"
+# avatar = "https://img2.imgtp.com/2024/04/10/I5eMqUVO.jpg"
 
 # Content types to disable Disqus on.
 disableDisqusTypes = ["page"]
@@ -36,7 +36,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
+name = "Archives"
 url = "/posts"
 weight = 2
 
@@ -56,9 +56,14 @@ icon = "github"
 url = "https://github.com/Ziy1-Tan"
 
 [[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/tziyi1998"
+
+# [[params.social]]
+# name = "RSS"
+# icon = "rss"
+# url = "/index.xml"
 
 [taxonomies]
 tag = "tags"
